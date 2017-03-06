@@ -1,0 +1,4 @@
+section.title {font-family: sans-serif}
+section.section1 {font-family: sans-serif; visibility: hidden; background-color:#e6ffb3;width:600px; height:400px;left: 0px; top:120px; bottom: 0px;text-align: center}
+section.section2 {font-family: sans-serif; visibility:hidden; background-color:	 #e6fff2; width:600px; height:400px;top:120px; position:absolute; left:0px; margin: auto;text-align: center}
+
